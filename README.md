@@ -14,4 +14,4 @@
   
 - Code xong thì push lên, đừng merge lung tung
 
-- Đọc dữ liệu để explore từ file `datasets/job_descriptions.csv`
+- Dataset lấy từ https://www.kaggle.com/datasets/ravindrasinghrana/job-description-dataset 
