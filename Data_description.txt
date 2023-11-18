@@ -1,0 +1,53 @@
+JOB DATASET
+
+Dữ liệu có 1615940 dòng và 23 cột với kích thước của dữ liệu là 1,62 GB.
+Mỗi dòng dữ liệu mô tả một công việc cụ thể. Có các trường dữ liệu:
+
+Job Id: Một số duy nhất đại diện cho công việc.
+Experience: Số năm kinh nghiệm yêu cầu hoặc ưu tiên cho công việc.
+Qualifications: Trình độ học vấn yêu cầu hoặc ưu tiên.
+Qualifications[
+    M.Tech : Thạc sĩ Công nghệ
+    BCA : Cử nhân Ứng dụng Máy tính
+    PhD : Học vị tiến sĩ
+    MBA : Thạc sĩ quản trị kinh doanh
+    MCA : Thạc sĩ Ứng dụng Máy tính
+    M.Com : Thạc sĩ Kinh tế
+    BBA : Cử nhân quản trị kinh doanh
+    B.Tech : Cử nhân Công nghệ
+    B.Com : Cử nhân Kinh tế
+    BA : Cử nhân Nghệ thuật
+]
+Salary Range: Phạm vi mức lương hoặc bồi thường cho công việc.
+
+Location: Địa điểm nơi công việc được thực hiện (thành phố hoặc khu vực).
+Country: Quốc gia nơi công việc nằm.
+Latitude: Tọa độ vĩ độ của địa điểm công việc (được hiển thị bằng số thập phân).
+Longitude: Tọa độ kinh độ của địa điểm công việc (được hiển thị bằng số thập phân).
+
+Work Type: Loại hình làm việc (ví dụ: toàn thời gian, bán thời gian, hợp đồng).
+
+Company Size: Kích thước hoặc quy mô của công ty tuyển dụng.
+
+Job Posting Date: Ngày đăng thông báo việc làm.
+
+Preference: Sự ưu tiên hoặc yêu cầu đặc biệt cho ứng viên (ví dụ: chỉ tuyển nam hoặc nữ).
+
+Contact Person: Tên người liên hệ hoặc người tuyển dụng cho công việc.
+Contact: Thông tin liên hệ để nộp đơn ứng tuyển.
+
+Job Title: Tên công việc hoặc vị trí tuyển dụng.
+Role: Loại công việc hoặc vai trò (ví dụ: lập trình viên, quản lý tiếp thị).
+
+Job Portal: Nền tảng hoặc trang web nơi công việc được đăng.
+
+Job Description: Mô tả chi tiết về công việc, trách nhiệm và yêu cầu.
+
+Benefits: Thông tin về các phúc lợi kèm theo công việc (ví dụ: bảo hiểm y tế, kế hoạch hưu trí).
+
+Skills: Các kỹ năng hoặc yêu cầu cụ thể cho công việc.
+
+Responsibilities: Các trách nhiệm và nhiệm vụ cụ thể của công việc.
+
+Company Name: Tên của công ty tuyển dụng.
+Company Profile: Mô tả ngắn gọn về hồ sơ và nhiệm vụ của công ty.
