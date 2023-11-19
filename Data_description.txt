@@ -20,10 +20,10 @@ Qualifications[
 ]
 Salary Range: Phạm vi mức lương hoặc bồi thường cho công việc.
 
-Location: Địa điểm nơi công việc được thực hiện (thành phố hoặc khu vực).
+location: Địa điểm nơi công việc được thực hiện (thành phố hoặc khu vực).
 Country: Quốc gia nơi công việc nằm.
-Latitude: Tọa độ vĩ độ của địa điểm công việc (được hiển thị bằng số thập phân).
-Longitude: Tọa độ kinh độ của địa điểm công việc (được hiển thị bằng số thập phân).
+latitude: Tọa độ vĩ độ của địa điểm công việc (được hiển thị bằng số thập phân).
+longitude: Tọa độ kinh độ của địa điểm công việc (được hiển thị bằng số thập phân).
 
 Work Type: Loại hình làm việc (ví dụ: toàn thời gian, bán thời gian, hợp đồng).
 
@@ -45,7 +45,7 @@ Job Description: Mô tả chi tiết về công việc, trách nhiệm và yêu 
 
 Benefits: Thông tin về các phúc lợi kèm theo công việc (ví dụ: bảo hiểm y tế, kế hoạch hưu trí).
 
-Skills: Các kỹ năng hoặc yêu cầu cụ thể cho công việc.
+skills : Các kỹ năng hoặc yêu cầu cụ thể cho công việc.
 
 Responsibilities: Các trách nhiệm và nhiệm vụ cụ thể của công việc.
 
